@@ -1,0 +1,13 @@
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_obj\Debug\Valis.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\wpger_000\Documents\Valis\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
